@@ -1,4 +1,6 @@
 # Laboratório de Sinais e Sistemas de Tempo Discreto
+clear all; close all; clc;
+pkg load signal;
 
 # EXEMPLO 1 - Trace os seguintes sinais discretos no tempo
 # a) xa  = (-0.5)^n
